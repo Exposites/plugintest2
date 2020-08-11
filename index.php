@@ -11,6 +11,7 @@
  * Text Domain: expotest
  * Domain Path: /languages
  * Plugin Type: Piklist
+ * GitHub Plugin URI: Exposites/plugintest2
  */
 
  // a change
