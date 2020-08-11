@@ -3,7 +3,7 @@
  * Plugin Name: Test Plugin
  * Plugin URI:  https://
  * Description: Basic plugin test 
- * Version:     0.0.5
+ * Version:     0.0.6
  * Author:      Exposites.com
  * Author URI:  https://
  * License:     GPL2
@@ -12,3 +12,5 @@
  * Domain Path: /languages
  * Plugin Type: Piklist
  */
+
+ // a change
