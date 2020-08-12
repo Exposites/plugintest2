@@ -3,7 +3,7 @@
  * Plugin Name: Test Plugin
  * Plugin URI:  https://
  * Description: Basic plugin test 
- * Version:     0.0.7
+ * Version:     0.0.8
  * Author:      Exposites.com
  * Author URI:  https://
  * License:     GPL2
@@ -16,3 +16,4 @@
 
  // a change
  // another change
+ // additional
